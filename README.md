@@ -1,8 +1,8 @@
 ## Hello there!
 
-<a href="https://github.com/lhggomes">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lhggomes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lhggomes&layout=compact&langs_count=8&theme=dracula"/>
+<a href="https://github.com/isaqueoliver">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=isaqueoliver&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=isaqueoliver&layout=compact&langs_count=8&theme=dracula"/>
 <div style="display: inline_block"><br>
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
